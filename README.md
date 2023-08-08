@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
--🔭 I’m currently working on Portfolio improvement.<br>
+-🔭 I’m currently working on self improvement.<br>
 -👯 I’m looking to collaborate on Open Source.<br>
 -🤔 I’m looking for help with Ai, Ml and Dl.<br>
 -🌱 I’m currently learning Flutter.<br>
