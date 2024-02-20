@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 -🔭 I’m currently working on self improvement.<br>
--👯 I’m looking to collaborate on Open Source.<br>
+-👯 I’m looking to team up for CTFs.<br>
 -🤔 I’m looking for help with Ai, Ml and Dl.<br>
--🌱 I’m currently learning Flutter.<br>
+-🌱 I’m currently learning German.<br>
 -💬 Ask me about Python and life.<br>
 -😄 Pronouns: he/him<br>
 -⚡ Fun fact: I talk a lot but mostly to myself.<br>
